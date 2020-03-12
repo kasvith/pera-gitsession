@@ -1,6 +1,10 @@
 int main(int argc, char const *argv[])
 {
     /* code */
+<<<<<<< HEAD
+    // added hello world fgdkfglkl
+=======
     // added hello world 3434
+>>>>>>> feature/hello-world2
     return 0;
 }
